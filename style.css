@@ -730,6 +730,8 @@ footer {
   width: 100%;
   background-color: #fafafa;
   height: 74px;
+  display: flex;
+  align-items: center;
 }
 
 .down_container {
